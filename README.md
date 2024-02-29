@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👨‍💻 [EJIKE OZONKWO RICHARD]
 
-<!--
-**rychrr/rychrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Hey there! I'm a seasoned professional with expertise in Data Science, Data Engineering, and Blockchain technology. With a passion for crafting innovative solutions and exploring the latest advancements in tech, I thrive in dynamic environments where creativity meets technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Tech Stacks
+
+- **Data Science:** Python, R, TensorFlow, PyTorch, sci-kit-learn, Pandas, NumPy, Deep Learning
+- **Data Engineering:** Apache Spark, Apache Hadoop, NiFi, Airflow, SQL, Apache Kafka, AWS/GCP/Azure Services and Bash 
+- **Blockchain:** Solidity, Distributed Ledger Technology, Ethereum, Hyperledger, Smart Contracts, Defi, NFTs, Cryptography
+
+
+## 📫 Contact Me
+- LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/ozonkwoejike/)
+- Email: [Email Address](mailto:erozonkwo@gmail.com)
+- Twitter: [Your Twitter Handle](https://twitter.com/rychardase)
