@@ -1,4 +1,4 @@
-# 👨‍💻 [EJIKE OZONKWO RICHARD]
+# 👨‍💻 EJIKE OZONKWO RICHARD
 
 ## 🚀 About Me
 
