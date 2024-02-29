@@ -12,6 +12,5 @@ Hey there! I'm a seasoned professional with expertise in Data Science, Data Engi
 
 
 ## 📫 Contact Me
-- LinkedIn      [LinkedIn](https://www.linkedin.com/in/ozonkwoejike/)
-- Email:        [Email me](mailto:erozonkwo@gmail.com)
-- Twitter(X):   [Hit me up @X](https://twitter.com/rychardase)
+- LinkedIn:     [LinkedIn](https://www.linkedin.com/in/ozonkwoejike/)
+- Email:     [Email me](mailto:erozonkwo@gmail.com)
